@@ -1,4 +1,4 @@
-## Implementação da Cifra Playfeir <br>
+## Implementação da Cifra  Vigenère  <br>
 A cifra de Vigenère é uma técnica de criptografia por substituição polialfabética que utiliza uma série de cifras de César 
 diferentes, baseadas nas letras de uma palavra-chave.<br>
 Esse método de criptografia foi descrito originalmente pelo criptologista italiano Giovan Battista Bellaso em um livro de 1553 
