@@ -8,7 +8,7 @@ Foi feito quase tudo,só não conseguimos enviar a parte do arquivo .doc, mas o 
 [Jefté Sousa](https://github.com/bassebete/information-security)
 
 ## O que você sabe fazer do que está sendo apresentado.
-Fiz a pratica novamente só que dessa vez só que na hora de importar uma chave do servidor, minha maquina deu um bugue e não consegui até o momento. 
+Fiz a pratica novamente, só que dessa vez na hora de importar uma chave do servidor dá uma erro de comunicação com o keysever e até o momento não consegui fazer. 
 
 ## Como vocês dividiram/fizeram a atividade.
 Fizemos a pratica em dulpa só que na hora de enviar a chave pro servidor nossa maquina estava sem internet no Lab2 e se juntamos ao [Samuel Brandão](), porque a maquina dele tava com internet e tinha como a gente acompanha a pratica.
