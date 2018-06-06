@@ -1,7 +1,7 @@
 # Prática pfSense
 <br>
 
-![img1](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/download.png)
+![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/download.png)
 
 ## Equipe
 [Antonio Carlos](https://github.com/AnttoniC/Seguranca-da-Informacao)<br>
@@ -30,8 +30,8 @@ filtragem de conteúdo;<br>
 detecção de intrusão, entre outros.
 
 # Instalando o pfSense
-<br>
-## Requisitos mínimos do sistema:<br>
+
+## Requisitos mínimos do sistema:
 
 CPU:                             Pelo menos 100 MHz<br>
 RAM:                             128 MB<br>
@@ -39,8 +39,8 @@ A instalação no disco rígido:	   1 GB<br>
 Incorporado:                     Compact Flash de 512 MB
 
 ## Preparando o Ambiente:
-Primeiramente devemos preparar a maquina Virtual com duas plcas de redes uma no modo NAT e outra Interna
+Primeiramente devemos preparar a maquina Virtual com duas plcas de redes uma no modo NAT e outra como modo Interna.
 
-![img2](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P15.png)
-![img2](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P15.png)
-![img2](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P14.png)
+![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P13.png)
+![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P15.png)
+![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P14.png)
