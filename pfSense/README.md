@@ -38,10 +38,19 @@ RAM:                             128 MB<br>
 A instalação no disco rígido:	   1 GB<br>
 Incorporado:                     Compact Flash de 512 MB
 
-## Preparando o Ambiente:
-*Etapa 1*
+## Etapa 1 - Preparando o Ambiente:
+
 Primeiramente devemos preparar a maquina Virtual com duas plcas de redes uma no modo NAT e outra como modo Interna.
 
 ![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P13.png)
 ![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P15.png)
 ![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P14.png)
+
+## Etapa 2 - Iniciando a instalação:
+<br>
+Tela inical de Boas Vindas do Sistema:
+![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P00.png)
+
+Na tela de auto boot aperta a letra "i" para iniciar a instalação.
+![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P1.png)
+
