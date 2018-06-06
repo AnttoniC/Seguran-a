@@ -31,13 +31,16 @@ detecção de intrusão, entre outros.
 
 # Instalando o pfSense
 <br>
-Requisitos mínimos do sistema:<br>
+## Requisitos mínimos do sistema:<br>
 
 CPU:                             Pelo menos 100 MHz<br>
 RAM:                             128 MB<br>
 A instalação no disco rígido:	   1 GB<br>
 Incorporado:                     Compact Flash de 512 MB
 
-Preparando o Ambiente:
+## Preparando o Ambiente:
 Primeiramente devemos preparar a maquina Virtual com duas plcas de redes uma no modo NAT e outra Interna
 
+![img2](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P15.png)
+![img2](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P15.png)
+![img2](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P14.png)
