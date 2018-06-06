@@ -29,11 +29,11 @@ detecção de intrusão, entre outros.
 
 # Instalando o pfSense
 <br>
-Requisitos mínimos do sistema:
+Requisitos mínimos do sistema:<br>
 
-CPU	                             Pelo menos 100 MHz<br>
-RAM	                             128 MB<br>
-A instalação no disco rígido	   1 GB<br>
-Incorporado	                     Compact Flash de 512 MB
+CPU:                             Pelo menos 100 MHz<br>
+RAM:                             128 MB<br>
+A instalação no disco rígido:	   1 GB<br>
+Incorporado:                     Compact Flash de 512 MB
 
 
