@@ -48,8 +48,10 @@ Primeiramente devemos preparar a maquina Virtual com duas plcas de redes uma no 
 
 ## Etapa 2 - Iniciando a instalação:
 <br>
+
 Tela inical de Boas Vindas do Sistema:
 ![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P00.png)
+
 
 Na tela de auto boot aperta a letra "i" para iniciar a instalação.
 ![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P1.png)
