@@ -31,9 +31,9 @@ detecção de intrusão, entre outros.
 <br>
 Requisitos mínimos do sistema:
 
-CPU	                             Pelo menos 100 MHz
-RAM	                             128 MB
-A instalação no disco rígido	   1 GB
+CPU	                             Pelo menos 100 MHz<br>
+RAM	                             128 MB<br>
+A instalação no disco rígido	   1 GB<br>
 Incorporado	                     Compact Flash de 512 MB
 
 
