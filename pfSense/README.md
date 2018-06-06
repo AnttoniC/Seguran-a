@@ -36,4 +36,6 @@ RAM:                             128 MB<br>
 A instalação no disco rígido:	   1 GB<br>
 Incorporado:                     Compact Flash de 512 MB
 
+Preparando o Ambiente:
+Primeiramente devemos preparar a maquina Virtual com duas plcas de redes uma no modo NAT e outra Interna
 
