@@ -88,8 +88,8 @@ Quando o sitema tiver reiniciando remova o disco ou se preferir desligue a maqui
 
 <strong>Tela inicial do sistema:</strong><br>
 Na tela inicial vemos as duas interfaces WAN e LAN e vemos um menu com várias opções.<br>
-Para podermos acessar a interface grafica devemos executar o comando pfctl -d para poder disabilitar o firewall e
-pfctl -e para habilitar.
+Para podermos acessar a interface grafica devemos executar o comando `pfctl -d` para poder disabilitar o firewall e
+`pfctl -e` para habilitar. 
 
 ![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/A5.png)
 
