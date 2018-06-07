@@ -69,12 +69,14 @@ Incorporado:                     Compact Flash de 512 MB
 ![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P3.png)
 
 <strong>Seleciona: OK</strong>
+
 ![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P4.png)
 
 <strong>Seleciona: Standard Kernel</strong>
+
 ![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P5.png)
 
-<strong>Seleciona: Reboot</strong>
+<strong>Seleciona: Reboot</strong><br>
 Quando o sitema tiver reiniciando remova o disco ou se preferir desligue a maquina e remova o disco.
 
 ![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P6.png)
@@ -84,7 +86,7 @@ Quando o sitema tiver reiniciando remova o disco ou se preferir desligue a maqui
 ![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P7.png)
 
 
-<strong>Tela inicial do sistema:</strong>
+<strong>Tela inicial do sistema:</strong><br>
 Na tela inicial vemos as duas interfaces WAN e LAN e vemos um menu com várias opções.  
 
 ![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P8.png)
