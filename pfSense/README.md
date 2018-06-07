@@ -61,3 +61,9 @@ Tela inical de Boas Vindas do Sistema:
 Na tela de auto boot aperta a letra "i" para iniciar a instalação.
 ![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P1.png)
 
+<strong>Seleciona: Accept these Settings</strong>
+
+![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P1.png)
+
+
+
