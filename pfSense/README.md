@@ -100,11 +100,11 @@ Nessa etapa só iremos mudar o que está sugerido a seguir no restante e só nex
 
 <strong>Selecione a Timezone: América/São Paulo clicamos em next.</strong>
 
-![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/A1.png)
+![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/A1.jpg)
 
 <strong>Selecione: DHCP e clicamos em next</strong>
 
-![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/A2.png)
+![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/A2.jpg)
 
 <strong></strong>
 <strong></strong>
