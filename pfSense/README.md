@@ -40,12 +40,12 @@ Incorporado:                     Compact Flash de 512 MB
 
 ## Etapa 1 - Preparando o Ambiente:
 
-O ambiente que iremos proporcionar nesse tutorial sera o seguinte:
+<strong>O ambiente que iremos proporcionar nesse tutorial sera o seguinte:</strong>
 
 ![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/Ambiente%20Pfsense.png)
 
 
-Primeiramente devemos preparar a maquina Virtual com duas plcas de redes uma no modo NAT e outra como modo Interna.
+<strong>Primeiramente devemos preparar a maquina Virtual com duas plcas de redes uma no modo NAT e outra como modo Interna.</strong>
 
 ![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P13.png)
 ![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P15.png)
@@ -54,16 +54,40 @@ Primeiramente devemos preparar a maquina Virtual com duas plcas de redes uma no 
 ## Etapa 2 - Iniciando a instalação:
 <br>
 
-Tela inical de Boas Vindas do Sistema:
+<strong>Tela inical de Boas Vindas do Sistema:</strong>
 ![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P00.png)
 
 
-Na tela de auto boot aperta a letra "i" para iniciar a instalação.
+<strong>Na tela de auto boot aperta a letra "i" para iniciar a instalação.</strong>
 ![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P1.png)
 
 <strong>Seleciona: Accept these Settings</strong>
 
-![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P1.png)
+![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P2.png)
+
+<strong>Seleciona: Quick/Easy Install</strong>
+![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P3.png)
+
+<strong>Seleciona: OK</strong>
+![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P4.png)
+
+<strong>Seleciona: Standard Kernel</strong>
+![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P5.png)
+
+<strong>Seleciona: Reboot</strong>
+Quando o sitema tiver reiniciando remova o disco ou se preferir desligue a maquina e remova o disco.
+
+![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P6.png)
+
+<strong>Seleciona: F1</strong>
+
+![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P7.png)
 
 
+<strong>Tela inicial do sistema:</strong>
+Na tela inicial vemos as duas interfaces WAN e LAN e vemos um menu com várias opções.  
+
+![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P8.png)
+
+<strong></strong>
 
