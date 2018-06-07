@@ -93,5 +93,21 @@ Para podermos acessar a interface grafica devemos executar o comando `pfctl -d` 
 
 ![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/A5.png)
 
-<strong></strong>
 
+## Etapa 1 - Acessar o gerenciadorWeb:
+Nessa etapa só iremos mudar o que está sugerido a seguir no restante e só next.
+
+
+<strong>Selecione a Timezone: América/São Paulo clicamos em next.</strong>
+
+![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/A1.png)
+
+<strong>Selecione: DHCP e clicamos em next</strong>
+
+![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/A2.png)
+
+<strong></strong>
+<strong></strong>
+<strong></strong>
+<strong></strong>
+<strong></strong>
