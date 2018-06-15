@@ -114,7 +114,8 @@ Obs:caso não carregue execute o comando `pfctl-d` no pfsense.
 ![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/A2.jpg)
 
 ## Etapa 4 - Configurando as regras do firewall:
-Iremmos configurar as regras de acesso para `LAN` que é a nossa rede interna vamos realizar as
+Veja como usar,criar,editar e excluir Alias. O Alias fornece um grau de separação entre as regras e valores que podem mudar no futuro (por exemplo, endereços de IP,portas, entre outros). O uso do Alias vai ser fundamental nessa prática.
+Iremmos configurar as regras de acesso para `LAN` que é a nossa rede interna,vamos realizar as
 configurações a seguir.
 
 <strong>Regras do Firewall que vem como padrão:</strong>
