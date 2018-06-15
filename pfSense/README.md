@@ -1,4 +1,5 @@
 # Prática pfSense
+## Bloqueio de Torrent
 <br>
 
 ![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/pfsense.png)
@@ -137,4 +138,3 @@ configurações a seguir.
 ![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/ace3.png)
 
 
-<strong>Con isso o usuario só tera acesso as essas 3 portas ou seja não tera como fazer dowloads via Torrent</strong>
