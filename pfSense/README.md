@@ -114,7 +114,10 @@ Obs:caso não carregue execute o comando `pfctl-d` no pfsense.
 ![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/A2.jpg)
 
 ## Etapa 4 - Configurando as regras do firewall:
-<strong>Iremmos configurar as regras de acesso para `LAN` que é a nossa rede interna</strong>
+Iremmos configurar as regras de acesso para `LAN` que é a nossa rede interna vamos realizar as
+configurações a seguir.
+
+<strong>Regras do Firewall que vem como padrão:</strong>
 
 ![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/pad.png)
 
@@ -122,13 +125,13 @@ Obs:caso não carregue execute o comando `pfctl-d` no pfsense.
 
 ![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/cap1.png)
 
-<strong> Agora iremmos `Firewall\Rules\LAN` onde vamos adicionar uma nova regra</strong>
+<strong> Agora iremos em `Firewall\Rules\LAN` onde vamos adicionar uma nova regra:</strong>
 
-![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/ace1.png)
+![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/ace1.png)<br>
 ![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/ace2.png)
 
 
-<strong>E por ultimo iremos desativar as duas regras quem vem como padrão com acesso a qualquer destino:</strong>
+<strong>E por ultimo iremos desativar as duas regras que vem como padrão,vamos deixar ativo só a nova regra:</strong>
 
 ![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/ace3.png)
 
