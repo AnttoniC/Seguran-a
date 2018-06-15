@@ -94,7 +94,7 @@ Para podermos acessar a interface grafica devemos executar o comando `pfctl -d` 
 ![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/A5.png)
 
 
-## Etapa 1 - Acessar o gerenciadorWeb:
+## Etapa 3 - Acessar o gerenciadorWeb:
 
 Acessaremos a interface pelo ip da `LAN` que no caso vai ser o ip `192.168.1.1` que é o que vem por padrão.
 Nessa etapa só iremos mudar o que está sugerido a seguir no restante e só next.
@@ -113,7 +113,24 @@ Obs:caso não carregue execute o comando `pfctl-d` no pfsense.
 
 ![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/A2.jpg)
 
-<strong></strong>
-<strong></strong>
-<strong></strong>
-<strong></strong>
+## Etapa 4 - Configurando as regras do firewall:
+<strong>Iremmos configurar as regras de acesso para `LAN` que é a nossa rede interna</strong>
+
+![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/pad.png)
+
+<strong>Vamos acessar `Firewall\Aliases\Ports` onde vamos fazer as seguintes alterações:</strong>
+
+![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/cap1.png)
+
+<strong> Agora iremmos `Firewall\Rules\LAN` onde vamos adicionar uma nova regra</strong>
+
+![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/ace1.png)
+![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/ace2.png)
+
+
+<strong>E por ultimo iremos desativar as duas regras quem vem como padrão com acesso a qualquer destino:</strong>
+
+![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/ace3.png)
+
+
+<strong>Con isso o usuario só tera acesso as essas 3 portas ou seja não tera como fazer dowloads via Torrent</strong>
