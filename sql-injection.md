@@ -3,8 +3,7 @@
 
 ##  O que foi feito ?
 
-Nessa jeguir exatamento os passo que foram mostra na sala e no tutorial,realizei essa pratica no mesmo horaria que eles
-estavam apresentando e conseguir obter o resultado desejado.
+Nessa prática seguir exatamento os passos que foram mostra na sala e no tutorial,realizei essa prática no mesmo horaria que eles estavam apresentando e conseguir obter o resultado desejado.
 
 <strong> imagens das tabelas geradas onde ficam as informações do usuario</strong>
 
