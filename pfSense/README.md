@@ -39,11 +39,11 @@ RAM:                             128 MB<br>
 A instalação no disco rígido:	   1 GB<br>
 Incorporado:                     Compact Flash de 512 MB
 
-<strong>Links para Download do pfSense:</strong>
-Opção com as versões atuais:
-[link](https://www.pfsense.org/download/)
+<strong>Links para Download do pfSense:</strong><br>
+Opção com as versões atuais:<br>
+[link](https://www.pfsense.org/download/)<br>
 
-Opção com todas as versões:
+Opção com todas as versões:<br>
 [link](https://atxfiles.pfsense.org/mirror/downloads/)
 
 ## Etapa 1 - Preparando o Ambiente:
