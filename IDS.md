@@ -7,8 +7,8 @@
 
 <strong> Imagens dos dados gerados da minha rede</strong>
 
-![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/Img-praticas/iva.png)
+![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/Img-praticas/Snort-up.png)
 
 
 ## Dificuldades 
-Tive grande dificuldades em entender alguns comando, pois não sabia ao certo quais parametros teria que passar, mas tirei minhas duvidas com o  pessoal que realizou a prática.
+Tive alguns contra tempo tirei duvidas com o pessoa que realizou a prática e consguir finalizala com sucesso.
