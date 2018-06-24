@@ -53,7 +53,7 @@ Opção com todas as versões:<br>
 ![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/Ambiente%20Pfsense.png)
 
 
-<strong>Primeiramente devemos preparar a maquina Virtual com duas plcas de redes uma no modo NAT e outra como modo Interna.</strong>
+<strong>Primeiramente devemos preparar a maquina Virtual com duas placas de redes uma no modo NAT e outra como modo Interna.</strong>
 
 ![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P13.png)
 ![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/P15.png)
