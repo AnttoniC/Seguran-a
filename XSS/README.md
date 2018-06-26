@@ -1,4 +1,4 @@
-# Prática Snort
+# Prática XSS
 
 
 ##  O que foi feito ?
@@ -6,7 +6,8 @@
 
 <strong> Imagens do recurso XSS (Reflected)</strong>
 
-![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/Img-praticas/Snort-up.png)
+![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/Img-praticas/xss.png)
+![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/Img-praticas/xss.png)
 
 
 ## Dificuldades 
