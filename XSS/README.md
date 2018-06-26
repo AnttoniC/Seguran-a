@@ -7,7 +7,7 @@
 <strong> Imagens do recurso XSS (Reflected)</strong>
 
 ![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/Img-praticas/xss.png)
-![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/Img-praticas/xss.png)
+![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/Img-praticas/xss3.png)
 
 
 ## Dificuldades 
